@@ -1,0 +1,22 @@
+---
+title: "Coursera Data Scientist's Toolbox"
+author: 
+date: "1/6/2021"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**This is a Markdown file**  
+*Created as part of Week 4 assisgnment of Coursera Data Scientist's Toolbox*
+
+```{r}
+print("Hello World!")
+```
+
+
+```{r}
+```
+
